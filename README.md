@@ -15,5 +15,5 @@
 ## Структура Репозитория
 
 - **Главные работы**
-  - `Практика_2`: https://github.com/mmobik/Practices/blob/main/%22Практика_0_2_0_%22.ipynb
+  - `Практика_2`: [Ссылка на 2 практику](https://github.com/mmobik/Practices/blob/main/%22Практика_0_2_0_%22.ipynb)
   - `lab2/` - Лабораторная работа 2: [Описание и решение](lab2/README.md)
