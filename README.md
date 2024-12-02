@@ -15,13 +15,12 @@
 ## Структура Репозитория
 
 - **Главные работы**
-  - [Практика_1]:(https://github.com/mmobik/Practices/blob/main/%22Практика_0_2_0_%22.ipynb)
-  - [Ссылка на практику](https://github.com/mmobik/Practices/blob/main/%22Практика_0_3_0_%22.ipynb)
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
-  - [Ссылка на практику]()
+  - [Практика_2](https://github.com/mmobik/Practices/blob/main/%22Практика_0_2_0_%22.ipynb)
+  - [Практика_3](https://github.com/mmobik/Practices/blob/main/%22Практика_0_3_0_%22.ipynb)
+  - [Практика_4](https://github.com/mmobik/Practices/blob/main/%22Практика_0_4_0_%22%22.ipynb)
+  - [Практика_5](https://github.com/mmobik/Practices/blob/main/%22Практика_0_5_0_%22.ipynb)
+  - [Практика_6](https://github.com/mmobik/Practices/blob/main/%22Практика_0_6_0_%22.ipynb)
+  - [Практика_7](https://github.com/mmobik/Practices/blob/main/%22Практика_0_7_0_%22.ipynb)
+  - [Практика_8](https://github.com/mmobik/Practices/blob/main/%22Практика_0_8_0_%22.ipynb)
+  - [Практика_9](https://github.com/mmobik/Practices/blob/main/%22Практика_0_9_0_%22.ipynb)
+  - [Практика_10]()
