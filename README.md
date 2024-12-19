@@ -24,3 +24,4 @@
   - [Практика_8](https://github.com/mmobik/Practices/blob/main/%22Практика_0_8_0_%22.ipynb)
   - [Практика_9](https://github.com/mmobik/Practices/blob/main/%22Практика_0_9_0_%22.ipynb)
   - [Практика_10](https://github.com/mmobik/Practices/blob/main/%22Практика_1_0_0_%22.ipynb)
+  - [Практика_11](https://github.com/mmobik/Practices/blob/main/%22Практика_0_2_0_%22.ipynb)
